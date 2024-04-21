@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
-contract Fallback {
+contract EthernautL2 {
     mapping(address => uint256) public contributions;
     address public owner;
 
